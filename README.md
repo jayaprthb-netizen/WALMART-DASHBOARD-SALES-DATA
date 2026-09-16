@@ -1,1 +1,1 @@
-# week-2-bi
+# week 2 walmart dashboard and visualization
